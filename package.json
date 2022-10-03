@@ -11,7 +11,7 @@
   ],
   "author": "hchinuri",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "cypress": "^10.9.0"
   }
 }
